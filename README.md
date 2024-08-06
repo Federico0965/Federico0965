@@ -21,7 +21,7 @@ SUBSCRIBE NOW 👉 https://www.youtube.com/channel/UCubGkMqWxSUxQQULdu1IaOg?sub_
 - Buy me a coffee - https://www.buymeacoffee.com/federico0965@gmail.com
 - SUBSCRIBE TO MY CHANNEL NOW - https://www.youtube.com/channel/UCubGkMqWxSUxQQULdu1IaOg?sub_confirmation=1
 
-#Languages Learned:
+# Languages Learned:
 - Python
 - HTML (Markup Language)
 - Scratch
