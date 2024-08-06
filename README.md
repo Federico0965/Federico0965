@@ -20,3 +20,9 @@ SUBSCRIBE NOW 👉 https://www.youtube.com/channel/UCubGkMqWxSUxQQULdu1IaOg?sub_
 - Website - https://bruvcode-website-7fzz8kcnfegzaprguagme9.streamlit.app/
 - Buy me a coffee - https://www.buymeacoffee.com/federico0965@gmail.com
 - SUBSCRIBE TO MY CHANNEL NOW - https://www.youtube.com/channel/UCubGkMqWxSUxQQULdu1IaOg?sub_confirmation=1
+
+#Languages Learned:
+- Python
+- HTML (Markup Language)
+- Scratch
+- Blockly
