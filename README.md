@@ -18,6 +18,5 @@ SUBSCRIBE NOW 👉 https://www.youtube.com/channel/UCubGkMqWxSUxQQULdu1IaOg?sub_
 - X (Formerly Twitter) - https://www.x.com/FedericoBruv56
 - Discord Server - https://discord.gg/ccnCAXCe
 - Website - https://bruvcode-website-7fzz8kcnfegzaprguagme9.streamlit.app/
-- Buy me a coffee - https://www.buymeacoffee.com/federico0965@gmail.com
+- Buy me a coffee - https://www.buymeacoffee.com/federico0965
 - SUBSCRIBE TO MY CHANNEL NOW - https://www.youtube.com/channel/UCubGkMqWxSUxQQULdu1IaOg?sub_confirmation=1
-
