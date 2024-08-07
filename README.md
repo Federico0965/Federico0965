@@ -1,6 +1,6 @@
 # Hi, I am Federico 👋
 # A Python Programmer, Data Science and Machine Learner from Germany
-- Am passionate about finding ways to use Python and RealPython to be more efficent and effective in business settings
+- I am passionate about finding ways to use Python and RealPython to be more efficent and effective in business settings
 - Visit my website - https://bruvcode-website-7fzz8kcnfegzaprguagme9.streamlit.app/
 
 # What I do
