@@ -10,6 +10,7 @@ On my Python YouTube channel, I am making tutorials for people who:
 - who want to learn the Python Intermediate Object-orientated Programming with classes
 - who want to learn the Python Advanced
 - who want to make fun Python projects
+
 If this sounds interesting to you, SUBSCRIBE NOW to my channel and turn on post notifications so you don't miss out on any new easy to follow Python tutorials
 SUBSCRIBE NOW 👉 https://www.youtube.com/channel/UCubGkMqWxSUxQQULdu1IaOg?sub_confirmation=1
 
